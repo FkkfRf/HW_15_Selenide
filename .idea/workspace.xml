@@ -60,7 +60,7 @@
       <recent name="base" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MoveRectangleTest">
+  <component name="RunManager" selected="Gradle.MoveRectangleTest.dragAndDropRectangles">
     <configuration name="MoveRectangleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -155,9 +155,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MoveRectangleTest.dragAndDropRectangles" />
         <item itemvalue="Gradle.MoveRectangleTest" />
         <item itemvalue="Gradle.MoveRectangleTest.dragAndDropTestUsingSelenideActions" />
-        <item itemvalue="Gradle.MoveRectangleTest.dragAndDropRectangles" />
         <item itemvalue="Gradle.SelectPageSolutionsOnGithubTest" />
       </list>
     </recent_temporary>

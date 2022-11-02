@@ -17,7 +17,6 @@ public class MoveRectangleTest extends BaseTestHerokuApp {
         $("#column-a").dragAndDropTo("#column-b");
         $("#column-a").shouldHave(text("B"));
         $("#column-b").shouldHave(text("A"));
-        $("#column-a").shouldHave(text("B"));
     }
 
     @Test
